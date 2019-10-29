@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://pydata-manchester.netlify.com/"
 languageCode = "en-gb"
 title = "PyData Manchester"
 theme = "papercss-hugo-theme"
